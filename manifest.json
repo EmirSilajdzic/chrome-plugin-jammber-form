@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "Jammber Form Autofiller",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Fill out your Jammber form!",
   "permissions": ["declarativeContent", "activeTab"],
   "background": {
     "scripts": ["background.js"],
